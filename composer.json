@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki progress extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "progress"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "progresss": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-progress/progresss",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-progress"
+    "progresss": "https://github.com/marketplace-mediawiki/mediawiki-ext-progress/progresss",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-progress"
   },
   "require": {
     "composer/installers": "~1.0",
